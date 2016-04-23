@@ -1,4 +1,4 @@
-package Assignments;
+package JavaAssignments;
 
 public class TwoDimensionalArray {
 
